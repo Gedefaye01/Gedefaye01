@@ -5,15 +5,16 @@
 
 ---
 
-## 🔹 **About Me**
-- 🔐 Expert in **Core Banking Systems** & **Digital Banking Solutions**
-- 🌱 Currently working with **Flutter (Mobile)** & **Spring Boot (Backend)**
-- ⚡ Passionate about **FinTech**, **USSD Applications**, and **Cloud Deployments**
-- 💬 Ask me about: **Banking APIs, Secure Mobile Apps, Payment Integrations**
+## 🔹 About Me
+- 🔐 Specialized in **Core Banking Systems & Digital Banking Solutions**  
+- 🌱 Currently working with **Flutter (Mobile)** & **Spring Boot (Backend)**  
+- ⚡ Passionate about **FinTech**, **USSD Apps**, and **Cloud Deployment**  
+- 💬 Ask me about: **Banking APIs, Secure Mobile Apps, Payment Integrations**  
 
 ---
 
-## 🔹 **Tech Stack**
+## 🔹 Tech Stack
+
 **Languages & Frameworks:**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -35,53 +36,60 @@
 
 ---
 
-## 🔹 **Featured Projects**
+## 🔹 Featured Projects
 
-### Top Projects
-🚀 [Ahadu Payroll Management System](https://ahadu-payroll-mgnt-system-frontend.onrender.com/) – Flutter + Spring Boot payroll system  
-📱 [Real Chat App](https://my-chat-app-09fl.onrender.com/) – Real-time chat app with Node.js & React  
-💳 [My Portfolio](https://gede-portfolio.vercel.app/) – Showcasing projects, skills, and achievements  
+### 🚀 Private Projects (GIFs)
+**Ahadu Payroll Management System**  
+*Full-stack banking payroll system (Flutter + Spring Boot)*  
+![Ahadu Payroll GIF](https://github.com/Gedefaye01/Gedefaye01/blob/main/assets/screenshots/ahadu_payroll_demo.gif)  
+**Demo/Docs:** [View Demo](https://ahadu-payroll-mgnt-system-frontend.onrender.com/)
 
-### Stats Overview
-[![Ahadu Payroll](https://github-readme-stats.vercel.app/api/pin/?username=Gedefaye01&repo=ahadu-payroll-mgnt-system&theme=radical)](https://github.com/Gedefaye01/ahadu-payroll-mgnt-system)  
-[![Real Chat App](https://github-readme-stats.vercel.app/api/pin/?username=Gedefaye01&repo=chat-app&theme=radical)](https://github.com/Gedefaye01/chat-app)  
+**Real Chat App**  
+*Real-time messaging app (Node.js + React + MongoDB)*  
+![Real Chat App GIF](https://github.com/Gedefaye01/Gedefaye01/blob/main/assets/screenshots/real_chat_app_demo.gif)  
+**Demo/Docs:** [View Demo](https://my-chat-app-09fl.onrender.com/)
+
+### 💳 Public Repo (Interactive Stats)
+**Portfolio Website**  
+*Showcasing projects, skills, and achievements.*  
+**Live Site:** [Visit Portfolio](https://gede-portfolio.vercel.app/)  
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Gedefaye01&repo=portfolio&theme=radical)](https://github.com/Gedefaye01/portfolio)
 
 ---
 
-## 🔹 **GitHub Stats**
+## 🔹 GitHub Stats
 ![Gedefaye's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gedefaye01&show_icons=true&theme=radical&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gedefaye01&layout=compact&theme=radical&hide_border=true)  
 
 ---
 
-## 🔹 **GitHub Streak**
+## 🔹 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gedefaye01&theme=radical&hide_border=true)  
 
 ---
 
-## 🔹 **Trophies**
+## 🔹 Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Gedefaye01&theme=radical&margin-w=10&margin-h=10)
 
 ---
 
-## 🔹 **Connect with Me**
+## 🔹 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/gedefayeanteneh)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=github-pages)](https://gede-portfolio.vercel.app/)  
 [![Call Me](https://img.shields.io/badge/Phone-Call%20Me-green?style=for-the-badge&logo=whatsapp)](tel:+251920646207)  
-[![Email](https://img.shields.io/badge/Email-Send%20a%20Mail-red?style=for-the-badge&logo=gmail)](mailto:youremail@example.com)  
+[![Email](https://img.shields.io/badge/Email-Send%20a%20Mail-red?style=for-the-badge&logo=gmail)](mailto:gedefayeanteneh07@gmail.com)  
 
 ---
 
-## 🔹 **Visitor Counter**
+## 🔹 Visitor Counter
 ![Profile Views](https://komarev.com/ghpvc/?username=Gedefaye01&label=Profile%20Views&color=blue&style=for-the-badge)  
 
 ---
 
-## ✍️ **Quote**
+## ✍️ Quote
 _"Code is like humor. When you have to explain it, it’s bad."_  
 
 ---
 
-### 🐍 **GitHub Contribution Snake**
-![GitHub Snake](https://github.com/Gedefaye01/Gedefaye01/blob/output/snake.svg)
+### 🐍 GitHub Contribution Snake
+![GitHub Snake](https://github.com/Gedefaye01/Gedefaye01/blob/output/dist/snake.svg)
