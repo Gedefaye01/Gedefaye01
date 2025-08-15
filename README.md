@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Gedefaye!  
 
 💻 **Developer | Core Banking Systems | Mobile & Backend Solutions**  
-🌍 Building **secure and scalable digital banking solutions** for the future.  
+🌍 Building **secure, scalable digital banking solutions** for the future.  
 
 ---
 
@@ -46,7 +46,15 @@
 ![Gedefaye's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gedefaye01&show_icons=true&theme=radical&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gedefaye01&layout=compact&theme=radical&hide_border=true)  
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gedefaye01&theme=radical)  
+---
+
+## 🔹 **GitHub Streak**
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gedefaye01&theme=radical&hide_border=true)  
+
+---
+
+## 🔹 **Trophies**
+![Trophies](https://github-profile-trophy.vercel.app/?username=Gedefaye01&theme=radical&margin-w=10&margin-h=10)  
 
 ---
 
@@ -68,4 +76,5 @@ _"Code is like humor. When you have to explain it, it’s bad."_
 
 ---
 
-![GitHub Snake](https://github.com/Gedefaye01/Gedefaye01/blob/output/github-contribution-grid-snake.svg)
+### 🐍 **GitHub Contribution Snake**
+![GitHub Snake](https://github.com/Gedefaye01/Gedefaye01/blob/output/snake.svg)
