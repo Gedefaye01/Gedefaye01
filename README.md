@@ -38,8 +38,10 @@
 ---
 
 ### 🔹 **Connect with Me**
-[![LinkedIn](https://linkedin.com/in/gedefayeanteneh)  
-[![Portfolio](https://gede-portfolio.vercel.app/)  
+### 🔹 **Connect with Me**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/gedefayeanteneh)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=github-pages)](https://gede-portfolio.vercel.app/)  
+[![Call Me](https://img.shields.io/badge/Phone-Call%20Me-green?style=for-the-badge&logo=whatsapp)](tel:+251920646207)
 
 ---
 
