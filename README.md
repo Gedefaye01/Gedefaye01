@@ -35,17 +35,17 @@
 
 ---
 
-## 🔹 Featured Projects
+## 🔹 **Featured Projects**
 
 ### Top Projects
 🚀 [Ahadu Payroll Management System](https://ahadu-payroll-mgnt-system-frontend.onrender.com/) – Flutter + Spring Boot payroll system  
 📱 [Real Chat App](https://my-chat-app-09fl.onrender.com/) – Real-time chat app with Node.js & React  
+💳 [My Portfolio](https://gede-portfolio.vercel.app/) – Showcasing projects, skills, and achievements  
 
 ### Stats Overview
-[![Ahadu Payroll](https://github-readme-stats.vercel.app/api/pin/?username=Gedefaye01&repo=ahadu-payroll-system&theme=radical)](https://ahadu-payroll-mgnt-system-frontend.onrender.com/)  
-[![Real Chat App](https://github-readme-stats.vercel.app/api/pin/?username=Gedefaye01&repo=my-chat-app&theme=radical)](https://my-chat-app-09fl.onrender.com/)  
+[![Ahadu Payroll](https://github-readme-stats.vercel.app/api/pin/?username=Gedefaye01&repo=ahadu-payroll-system&theme=radical)](https://github.com/Gedefaye01/ahadu-payroll-system)  
+[![Real Chat App](https://github-readme-stats.vercel.app/api/pin/?username=Gedefaye01&repo=my-chat-app&theme=radical)](https://github.com/Gedefaye01/my-chat-app)  
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Gedefaye01&repo=gede-portfolio&theme=radical)](https://github.com/Gedefaye01/gede-portfolio)
- 
 
 ---
 
@@ -61,7 +61,7 @@
 ---
 
 ## 🔹 **Trophies**
-![Trophies](https://github-profile-trophy.vercel.app/?username=Gedefaye01&theme=radical&margin-w=10&margin-h=10)  
+![Trophies](https://github-profile-trophy.vercel.app/?username=Gedefaye01&theme=radical&margin-w=10&margin-h=10)
 
 ---
 
