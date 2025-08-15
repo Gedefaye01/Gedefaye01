@@ -43,9 +43,9 @@
 💳 [My Portfolio](https://gede-portfolio.vercel.app/) – Showcasing projects, skills, and achievements  
 
 ### Stats Overview
-[![Ahadu Payroll](https://github-readme-stats.vercel.app/api/pin/?username=Gedefaye01&repo=ahadu-payroll-system&theme=radical)](https://github.com/Gedefaye01/ahadu-payroll-system)  
-[![Real Chat App](https://github-readme-stats.vercel.app/api/pin/?username=Gedefaye01&repo=my-chat-app&theme=radical)](https://github.com/Gedefaye01/my-chat-app)  
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Gedefaye01&repo=gede-portfolio&theme=radical)](https://github.com/Gedefaye01/gede-portfolio)
+[![Ahadu Payroll](https://github-readme-stats.vercel.app/api/pin/?username=Gedefaye01&repo=ahadu-payroll-mgnt-system&theme=radical)](https://github.com/Gedefaye01/ahadu-payroll-mgnt-system)  
+[![Real Chat App](https://github-readme-stats.vercel.app/api/pin/?username=Gedefaye01&repo=chat-app&theme=radical)](https://github.com/Gedefaye01/chat-app)  
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Gedefaye01&repo=portfolio&theme=radical)](https://github.com/Gedefaye01/portfolio)
 
 ---
 
