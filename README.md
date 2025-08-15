@@ -24,7 +24,7 @@
 ---
 
 ### 🔹 **Featured Projects**
-🚀 [Ahadu Payroll management System](https://github.com/Gedefaye01/ahadu-payroll-system)  
+🚀 [Ahadu Payroll management System](https://ahadu-payroll-mgnt-system-frontend.onrender.com/)  
 💳 [Digital Banking Suite](https://github.com/your-username/digital-banking-suite)  
 📱 [USSD Application for Banking](https://github.com/your-username/ussd-banking-app)  
 
