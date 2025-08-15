@@ -38,8 +38,8 @@
 ---
 
 ### 🔹 **Connect with Me**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=github-pages)](https://your-portfolio-link)  
+[![LinkedIn](https://linkedin.com/in/gedefayeanteneh)  
+[![Portfolio](https://gede-portfolio.vercel.app/)  
 
 ---
 
