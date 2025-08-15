@@ -40,7 +40,7 @@
 
 ### 🚀 Private Projects (GIFs)
 **Ahadu Payroll Management System**  
-*Full-stack banking payroll system (Flutter + Spring Boot)*  
+*Full-stack banking payroll system (React + Spring Boot)*  
 ![Ahadu Payroll GIF](https://github.com/Gedefaye01/Gedefaye01/blob/main/assets/screenshots/ahadu_payroll_demo.gif)  
 **Demo/Docs:** [View Demo](https://ahadu-payroll-mgnt-system-frontend.onrender.com/)
 
