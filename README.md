@@ -54,7 +54,7 @@
 *Showcasing projects, skills, and achievements.*  
 **Live Site:** [Visit Portfolio](https://gedefeye.vercel.app/)  
 [![Port](https://github-readme-stats.vercel.app/api/pin/?username=Gedefaye01&repo=port&theme=radical)](https://github.com/Gedefaye01/port)
-
+Portfolio website showcasing my projects, skills, and achievements.
 
 ---
 
