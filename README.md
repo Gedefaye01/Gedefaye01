@@ -52,8 +52,8 @@
 ### 💳 Public Repo (Interactive Stats)
 **Portfolio Website**  
 *Showcasing projects, skills, and achievements.*  
-**Live Site:** [Visit Portfolio](https://gede-portfolio.vercel.app/)  
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Gedefaye01&repo=portfolio&theme=radical)](https://github.com/Gedefaye01/portfolio)
+**Live Site:** [Visit Portfolio](https://gedefaye.vercel.app/)  
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Gedefaye01&repo=port&theme=radical)](https://github.com/Gedefaye01/port)
 
 ---
 
